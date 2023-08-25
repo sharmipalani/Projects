@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+.df{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ma{
+    margin: auto;
+}
+.martop{
+    margin-top: 60px;
+}
+.martop30{
+    margin-top: 30px;
+}
+.w60{
+    width: 60%;
+}
+.w80{
+    width: 80%;
+}
+.button{
+    padding: 20px 50px;
+    background-color: darkslategrey;
+    color: white;
+    border: solid 1px white; 
+    border-radius: 5px;
+}
+.button:hover{
+    background-color: beige;
+    border: darkslategray;
+    color: darkslategray;
+}
+.jcbetween{
+    justify-content: space-between;
+}
+.marright30{
+    margin-right: 30px;
+}
+.textalignc{
+    text-align: center;
+}
+.bgblack{
+    background-color: black;
+}
+.maxw400{
+    max-width: 400px;
+}
+.clrwh{
+    color: white;
+}
+.box{
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px powderblue;
+}
+img:hover{
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px peachpuff;
+}
