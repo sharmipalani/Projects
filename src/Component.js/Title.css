@@ -1,0 +1,98 @@
+.padd50{
+    padding: 50px 0px;
+}
+.df{
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.w30{
+    width: 25%;
+}
+.jccenter{
+    justify-content: center;
+}
+.marauto{
+    margin: auto;
+}
+.box{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px 0px;
+}
+.box2{
+    font-size: 15px;
+    font-weight: 500;
+    border: 2px solid cadetblue;
+    padding: 10px 40px;
+    background-color: cadetblue;
+}
+.box2:hover{
+    background-color: black;
+    color: cadetblue;
+}
+.jcaround{
+    justify-content: space-around;
+}
+.jcbetween{
+    justify-content: space-between;
+}
+.form{
+    padding: 10px 0px;
+    padding-right: 80px;
+    margin-top: 10px;
+}
+.martop40{
+    margin-top: 40px;
+}
+.w10{
+    width: 10%;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    color: cadetblue;
+    font-weight: 900;
+    margin-top: 15px;
+}
+.titlep{
+   font-size: 15px;
+   color: cadetblue;
+   font-weight: 500;
+}
+.spanp{
+    color: white;
+    font-weight: 900;
+}
+.bgblack{
+    background-color: black;
+}
+.paddtop10{
+    padding-top: 10px;
+}
+.bgantique{
+    background-color: antiquewhite;
+}
+.cardfh2{
+   font-size: 18px;
+   font-weight: 900;
+   border-top: 2px solid black;
+}
+.cardsh2{
+    font-size: 15px;
+    font-weight: 500;
+}
+.hover:hover{
+    background-color: cadetblue;
+    color: black;
+}
+.textalignc{
+    text-align: center;
+}
+.marbot30{
+    margin-bottom: 30px;
+}
+.clrwh{
+    color: white;
+}
